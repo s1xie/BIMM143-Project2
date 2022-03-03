@@ -1,0 +1,25 @@
+---
+title: "BIMM143 Project2"
+output: html_notebook
+---
+
+*Introduction* 
+
+Scientific Question: Is there more than a 50% difference in the limonene protein between sweet oranges, Citrus sinensis, and satsuma mandarins, Citrus unshiu, that affect their individual aroma? 
+
+*Background*
+
+The limonene synthase protein can be found in citrus fruit species. The aroma of the limonene protein have shown beneficial results in aromatherapy for depressive behaviors (Zhang et al., 2019). The Citrus sinesis has a (+)-limonene synthase protein and the Citrus ushiu has a d-limonenne synthase protein. Comparison of the two limonene synthase protein can reveal differences in the aroma between Citrus sinesis and Citrus ushiu, and whether they may have a difference in effectiveness for aromatherapy treatment. 
+
+*Scientific Hypothesis*
+
+If there is more than a 50% difference in the sequence of limonene protein in Citrus sinensis and Citrus unshiu, then there is likely a distinct fragrance between sweet oranges and satsuma mandarins.
+
+*Data Analysis*
+
+The (+)-limonene synthase protein and d-limonenne synthase protein were obtained from the NCBI database. Pairwise sequence alignment was done to compare the sequence of the limonene protein in sweet oranges and satsuma mandarins and find the differences and similarities between their limonene sequence. Modeling and structural bioinformatics was also performed to create a visual comparison between the two protein structure of limonene.
+
+```{r}
+
+```
+
